@@ -1,5 +1,5 @@
 Hi, I’m Rhea Jajodia!
-I'm a junior CS major at the University of Maryland.
+I'm a CS major at the University of Maryland.
 
 You can reach out to me by email at rjajodia@terpmail.umd.edu :)
 
